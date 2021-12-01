@@ -1,4 +1,4 @@
-#Nome do Projeto
+# Hemoloc
 
 
 ## Ata de Reunião
@@ -26,3 +26,4 @@ Ação                      | Responsável
 --------------------------|------------------------- 
 Deploy do backend         | Tavares, João Victor
 Testes frontend e backend | Thamires, Dandália, Paulo
+
